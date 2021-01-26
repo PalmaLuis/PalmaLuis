@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/luis-nilson-palma-campos-8b9240174/">
   <img align="left" alt="luis linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="/">
+<a href="https://www.instagram.com/luisito_palma_/">
   <img align="left" alt="luis Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> 
+<a href="https://www.facebook.com/luisito.palma">
+  <img align="left" alt="kuis facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> 
 </a>
 <br>
 <br>
