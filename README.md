@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Luis!</h3>
 
-<a href="https://www.linkedin.com/in/luis-nilson-palma-campos-8b9240174/">
+<a href="https://www.linkedin.com/in/luis-nilson-palma-campos/">
   <img align="left" alt="luis linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/luisito_palma_/">
