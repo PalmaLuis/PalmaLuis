@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://luis-palma-campos.netlify.app/](https://luis-palma-campos.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://luisitopalma.com/](https://luisitopalma.com/)
 
 - 💬 Ask me about **JavaScript, Bootstrap, CSS, SQL**
 
-- 📫 How to reach me **luispalma1307@gmail.com**
+- 📫 How to reach me **me@luisitopalma.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
