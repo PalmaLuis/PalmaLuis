@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, Bootstrap, CSS, SQL**
 
-- 📫 How to reach me **me@luisitopalma.com**
+- 📫 How to reach me **luispalma1307@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
